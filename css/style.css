@@ -37,7 +37,7 @@ hr{
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
-    font-size: 2rem;;
+    font-size: 2rem;
 
 }
 .footer-link:hover{
@@ -96,6 +96,7 @@ p{
     float: right;
     margin-left: 30px;
 }
+
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
